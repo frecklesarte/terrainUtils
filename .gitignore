@@ -1,0 +1,13 @@
+# General files to ignore
+
+# Python
+__pycache__
+
+# Editor
+*~
+*.swp
+*.swo
+*#
+
+# Blender backup binaries
+*.blend1

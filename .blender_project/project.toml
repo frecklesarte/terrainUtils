@@ -1,0 +1,12 @@
+schema_version = 1
+name = "TerrainErosionAlgorithms"
+ocio_config = "ocio://studio-config-v4.0.0_aces-v2.0_ocio-v2.5"
+splash_image = "{project_root}/.blender_project/splash.jpg"
+
+[[asset_libraries]]
+name = "terrain-types-assets"
+import_method = "PACK"
+path = "{project_root}/.blender_project/terrain-types-assets"
+use_relative_path = true
+uuid = "fa7c710c-cb23-4312-bffd-4a057c3ea15f"
+
